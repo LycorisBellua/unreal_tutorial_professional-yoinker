@@ -6,5 +6,5 @@ C++ project made following [the UE5 "Crypt Raider" tutorial by Gamedev.tv](https
 
 - Download the executable here.  
 
-- Screenshot.  
+![](./ingame_screenshot.png)
 
