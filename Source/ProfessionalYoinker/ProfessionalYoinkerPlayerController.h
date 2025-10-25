@@ -8,9 +8,6 @@
 
 class UInputMappingContext;
 
-/**
- *
- */
 UCLASS()
 class PROFESSIONALYOINKER_API AProfessionalYoinkerPlayerController : public APlayerController
 {

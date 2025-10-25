@@ -1,4 +1,4 @@
-// Mofumofu Studios © All Rights Reserved
+// Lycoris Bellua © All Rights Reserved
 
 #include "Grabber.h"
 #include "Engine/World.h"

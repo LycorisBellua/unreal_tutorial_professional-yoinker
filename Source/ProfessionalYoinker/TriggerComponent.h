@@ -1,4 +1,4 @@
-// Mofumofu Studios © All Rights Reserved
+// Lycoris Bellua © All Rights Reserved
 
 #pragma once
 
@@ -7,9 +7,6 @@
 #include "Mover.h"
 #include "TriggerComponent.generated.h"
 
-/**
- * 
- */
 UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class PROFESSIONALYOINKER_API UTriggerComponent : public UBoxComponent
 {

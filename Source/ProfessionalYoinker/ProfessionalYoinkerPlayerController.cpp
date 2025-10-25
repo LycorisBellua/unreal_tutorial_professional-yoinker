@@ -1,6 +1,5 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-
 #include "ProfessionalYoinkerPlayerController.h"
 #include "EnhancedInputSubsystems.h"
 
